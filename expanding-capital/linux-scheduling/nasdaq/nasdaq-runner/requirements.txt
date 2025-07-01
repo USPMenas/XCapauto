@@ -1,0 +1,6 @@
+beautifulsoup4
+ace-tools
+selenium
+webdriver-manager
+yfinance
+lxml
